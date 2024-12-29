@@ -1,0 +1,35 @@
+﻿@model MyApplication.Models.Item
+@{
+    ViewData["Title"] = "Overview";
+}
+
+<h1>Overview</h1>
+<p>This is the name of the item @Model.Name</p>
+
+@{
+    var message = "Hello India";
+}
+<p>@message</p>
+
+@{
+    var items = new List<string> { "Item1", "Item2", "Item3", "Item4", "Item5" };
+}
+<ul>
+    @foreach(var item in items) 
+    {
+        <li>@item</li>
+    }
+</ul>
+
+@{
+    var isLoggedIn = true;
+}
+
+@if(isLoggedIn)
+{
+    <p>Welcome back</p>
+}
+else
+{
+    <p>Please log in</p>
+}

@@ -1,0 +1,15 @@
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\bin\Debug\net9.0\Repository.deps.json
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\bin\Debug\net9.0\Repository.dll
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\bin\Debug\net9.0\Repository.pdb
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\bin\Debug\net9.0\Model.dll
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\bin\Debug\net9.0\Model.pdb
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\obj\Debug\net9.0\Repository.csproj.AssemblyReference.cache
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\obj\Debug\net9.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\obj\Debug\net9.0\Repository.AssemblyInfoInputs.cache
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\obj\Debug\net9.0\Repository.AssemblyInfo.cs
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\obj\Debug\net9.0\Repository.csproj.CoreCompileInputs.cache
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\obj\Debug\net9.0\Repository.csproj.Up2Date
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\obj\Debug\net9.0\Repository.dll
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\obj\Debug\net9.0\refint\Repository.dll
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\obj\Debug\net9.0\Repository.pdb
+D:\CDAC\09_NET\LabWork\ASP_NET\EmployeeApplication\Repository\obj\Debug\net9.0\ref\Repository.dll

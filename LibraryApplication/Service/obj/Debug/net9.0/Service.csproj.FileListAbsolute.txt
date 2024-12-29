@@ -1,0 +1,17 @@
+D:\CDAC\09_NET\practise\LibraryApplication\Service\bin\Debug\net9.0\Service.deps.json
+D:\CDAC\09_NET\practise\LibraryApplication\Service\bin\Debug\net9.0\Service.dll
+D:\CDAC\09_NET\practise\LibraryApplication\Service\bin\Debug\net9.0\Service.pdb
+D:\CDAC\09_NET\practise\LibraryApplication\Service\bin\Debug\net9.0\Model.dll
+D:\CDAC\09_NET\practise\LibraryApplication\Service\bin\Debug\net9.0\Repository.dll
+D:\CDAC\09_NET\practise\LibraryApplication\Service\bin\Debug\net9.0\Repository.pdb
+D:\CDAC\09_NET\practise\LibraryApplication\Service\bin\Debug\net9.0\Model.pdb
+D:\CDAC\09_NET\practise\LibraryApplication\Service\obj\Debug\net9.0\Service.csproj.AssemblyReference.cache
+D:\CDAC\09_NET\practise\LibraryApplication\Service\obj\Debug\net9.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\09_NET\practise\LibraryApplication\Service\obj\Debug\net9.0\Service.AssemblyInfoInputs.cache
+D:\CDAC\09_NET\practise\LibraryApplication\Service\obj\Debug\net9.0\Service.AssemblyInfo.cs
+D:\CDAC\09_NET\practise\LibraryApplication\Service\obj\Debug\net9.0\Service.csproj.CoreCompileInputs.cache
+D:\CDAC\09_NET\practise\LibraryApplication\Service\obj\Debug\net9.0\Service.csproj.Up2Date
+D:\CDAC\09_NET\practise\LibraryApplication\Service\obj\Debug\net9.0\Service.dll
+D:\CDAC\09_NET\practise\LibraryApplication\Service\obj\Debug\net9.0\refint\Service.dll
+D:\CDAC\09_NET\practise\LibraryApplication\Service\obj\Debug\net9.0\Service.pdb
+D:\CDAC\09_NET\practise\LibraryApplication\Service\obj\Debug\net9.0\ref\Service.dll

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\09_NET\\practise\\LibraryApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6D1423-A94A-4419-8B77-6953FFCE095C}|LibraryWebApp\\LibraryWebApp.csproj|d:\\cdac\\09_net\\practise\\libraryapplication\\librarywebapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6D1423-A94A-4419-8B77-6953FFCE095C}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6D1423-A94A-4419-8B77-6953FFCE095C}|LibraryWebApp\\LibraryWebApp.csproj|d:\\cdac\\09_net\\practise\\libraryapplication\\librarywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6D1423-A94A-4419-8B77-6953FFCE095C}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D025D86-4EAF-447B-B723-3E7AAA88F0A1}|Repository\\Repository.csproj|d:\\cdac\\09_net\\practise\\libraryapplication\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D025D86-4EAF-447B-B723-3E7AAA88F0A1}|Repository\\Repository.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935F4EB5-258F-42E6-968A-51F7BB69B715}|LibraryApplication\\LibraryApplication.csproj|d:\\cdac\\09_net\\practise\\libraryapplication\\libraryapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F4EB5-258F-42E6-968A-51F7BB69B715}|LibraryApplication\\LibraryApplication.csproj|solutionrelative:libraryapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\LibraryApplication\\LibraryWebApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\LibraryApplication\\LibraryWebApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryWebApp\\Controllers\\BookController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:05:24.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\LibraryApplication\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\LibraryApplication\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Repository\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:02:30.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\LibraryApplication\\LibraryApplication\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryApplication\\Program.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\LibraryApplication\\LibraryApplication\\Program.cs",
+              "RelativeToolTip": "LibraryApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:54:10.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\LibraryApplication\\LibraryWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Program.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\LibraryApplication\\LibraryWebApp\\Program.cs",
+              "RelativeToolTip": "LibraryWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:54:04.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

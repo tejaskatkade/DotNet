@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "AddBook";
+}
+
+<h1>AddBook</h1>
+
+<table>
+    <form asp-action="AddBook" method="post">
+    <tr>
+        <td>Enter ID</td>
+        <td> <input type="number" name="Id" required/> </td>
+    </tr><tr>
+        <td>Enter Title</td>
+        <td> <input type="text" name="Title" required/> </td>
+    </tr><tr>
+        <td>Enter Author</td>
+        <td> <input type="text" name="Author" required/> </td>
+    </tr>
+    <tr>
+        <td><button type="submit" value="Submit">Submit</button></td>
+    </tr>
+    </form>
+</table>
+
