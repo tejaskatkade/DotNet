@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\repository\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\repository\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\service\\implementation\\employeeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\service\\implementation\\employeeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\service\\implementation\\departmentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\service\\implementation\\departmentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\repository\\implementation\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\repository\\implementation\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\context\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\context\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\service\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\service\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\repository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\repository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\employeeapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\employeeapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|d:\\cdac\\09_net\\practise\\employeeapplication\\employeeapplication\\migrations\\20250101120750_addempanddept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22472554-CC80-45EF-8805-4E88E92F29CD}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\migrations\\20250101120750_addempanddept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Model\\Department.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Model\\Department.cs",
+              "RelativeToolTip": "EmployeeApplication\\Model\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:25:43.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeServiceImpl.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Service\\Implementation\\EmployeeServiceImpl.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Service\\Implementation\\EmployeeServiceImpl.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Service\\Implementation\\EmployeeServiceImpl.cs",
+              "RelativeToolTip": "EmployeeApplication\\Service\\Implementation\\EmployeeServiceImpl.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:46:01.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentServiceImpl.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Service\\Implementation\\DepartmentServiceImpl.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Service\\Implementation\\DepartmentServiceImpl.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Service\\Implementation\\DepartmentServiceImpl.cs",
+              "RelativeToolTip": "EmployeeApplication\\Service\\Implementation\\DepartmentServiceImpl.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:04:14.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Model\\Employee.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Model\\Employee.cs",
+              "RelativeToolTip": "EmployeeApplication\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:42:02.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Repository\\Implementation\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Repository\\Implementation\\EmployeeRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Repository\\Implementation\\EmployeeRepository.cs*",
+              "RelativeToolTip": "EmployeeApplication\\Repository\\Implementation\\EmployeeRepository.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAywBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:15:04.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeApplication\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:12:16.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Repository\\Implementation\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Repository\\Implementation\\DepartmentRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Repository\\Implementation\\DepartmentRepository.cs",
+              "RelativeToolTip": "EmployeeApplication\\Repository\\Implementation\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:19:43.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Program.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Program.cs",
+              "RelativeToolTip": "EmployeeApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:04:50.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeApplication\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:50:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EmployeeApplication\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:07:37.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Model\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Model\\BaseEntity.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Model\\BaseEntity.cs",
+              "RelativeToolTip": "EmployeeApplication\\Model\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:48:09.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Context\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Context\\EmployeeDbContext.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Context\\EmployeeDbContext.cs",
+              "RelativeToolTip": "EmployeeApplication\\Context\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:00:23.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Service\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Service\\IDepartmentService.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Service\\IDepartmentService.cs",
+              "RelativeToolTip": "EmployeeApplication\\Service\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:53:23.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Service\\IEmployeeService.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeApplication\\Service\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:41:54.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Repository\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Repository\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Repository\\IDepartmentRepository.cs",
+              "RelativeToolTip": "EmployeeApplication\\Repository\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:16:38.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250101120750_addempanddept.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Migrations\\20250101120750_addempanddept.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Migrations\\20250101120750_addempanddept.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Migrations\\20250101120750_addempanddept.cs",
+              "RelativeToolTip": "EmployeeApplication\\Migrations\\20250101120750_addempanddept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:07:51.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeApplication\\appsettings.json",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\appsettings.json",
+              "RelativeToolTip": "EmployeeApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T11:19:23.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EmployeeApplication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:38:45.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeApplication.csproj",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\EmployeeApplication.csproj",
+              "RelativeDocumentMoniker": "EmployeeApplication\\EmployeeApplication.csproj",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\EmployeeApplication\\EmployeeApplication\\EmployeeApplication.csproj",
+              "RelativeToolTip": "EmployeeApplication\\EmployeeApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-01T10:40:32.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
