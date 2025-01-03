@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\repository\\coursenamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\repository\\coursenamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\dto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\dto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\entity\\coursename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\entity\\coursename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\repository\\icoursenamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\repository\\icoursenamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\migrations\\20250102182622_firsto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\migrations\\20250102182622_firsto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\hariomtoppersacademy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\hariomtoppersacademy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|d:\\cdac\\09_net\\practise\\hariomtoppersacademy\\hariomtoppersacademy\\migrations\\20250103161539_stud-course-update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBFA1A1-32A3-4A17-8094-03C0CB6330EA}|HariomToppersAcademy\\HariomToppersAcademy.csproj|solutionrelative:hariomtoppersacademy\\migrations\\20250103161539_stud-course-update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250103161539_stud-course-update.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Migrations\\20250103161539_stud-course-update.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Migrations\\20250103161539_stud-course-update.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Migrations\\20250103161539_stud-course-update.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Migrations\\20250103161539_stud-course-update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:15:40.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:53:14.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseNameRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Repository\\CourseNameRepository.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Repository\\CourseNameRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Repository\\CourseNameRepository.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Repository\\CourseNameRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwEcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:22:11.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Entity\\Student.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Entity\\Student.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Entity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:26:41.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwD8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:15:36.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:13:42.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\DTO\\CourseDto.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\DTO\\CourseDto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\DTO\\CourseDto.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\DTO\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:48:47.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\DTO\\StudentDto.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\DTO\\StudentDto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\DTO\\StudentDto.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\DTO\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:49:38.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\DTO\\RegistrationDto.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\DTO\\RegistrationDto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\DTO\\RegistrationDto.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\DTO\\RegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:43:51.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseName.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Entity\\CourseName.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Entity\\CourseName.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Entity\\CourseName.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Entity\\CourseName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:32:22.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Context\\ApplicationContext.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Context\\ApplicationContext.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Context\\ApplicationContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:38:24.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Repository\\IStudentRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:41:22.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICourseNameRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Repository\\ICourseNameRepository.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Repository\\ICourseNameRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Repository\\ICourseNameRepository.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Repository\\ICourseNameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:17:26.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Program.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Program.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Program.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:34:22.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Entity\\BaseEntity.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Entity\\BaseEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:27:55.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\appsettings.json",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\appsettings.json",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\appsettings.json",
+              "RelativeToolTip": "HariomToppersAcademy\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T17:34:29.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250102182622_firsto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Migrations\\20250102182622_firsto.cs",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\Migrations\\20250102182622_firsto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\Migrations\\20250102182622_firsto.cs",
+              "RelativeToolTip": "HariomToppersAcademy\\Migrations\\20250102182622_firsto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:26:22.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HariomToppersAcademy.csproj",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\HariomToppersAcademy.csproj",
+              "RelativeDocumentMoniker": "HariomToppersAcademy\\HariomToppersAcademy.csproj",
+              "ToolTip": "D:\\CDAC\\09_NET\\practise\\HariomToppersAcademy\\HariomToppersAcademy\\HariomToppersAcademy.csproj",
+              "RelativeToolTip": "HariomToppersAcademy\\HariomToppersAcademy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T17:25:58.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
