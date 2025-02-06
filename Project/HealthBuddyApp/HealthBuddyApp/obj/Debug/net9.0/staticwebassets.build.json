@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rJVp3jj8QCMYwLb0CjE3w3lvaY8guxFZKAYxn7HsWJY=",
+  "Source": "HealthBuddyApp",
+  "BasePath": "_content/HealthBuddyApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,817 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\repository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\repository\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\service\\implementation\\patientserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\service\\implementation\\patientserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\service\\implementation\\appointmentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\service\\implementation\\appointmentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\dto\\reqdto\\appointmentreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\dto\\reqdto\\appointmentreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\service\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\service\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\controllers\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\controllers\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\dto\\reqdto\\patientreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\dto\\reqdto\\patientreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\dto\\reqdto\\hospitalreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\dto\\reqdto\\hospitalreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\dto\\reqdto\\doctorreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\dto\\reqdto\\doctorreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\util\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\util\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\util\\timeslotutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\util\\timeslotutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\service\\implementation\\timeslotserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\service\\implementation\\timeslotserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\controllers\\timeslotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\controllers\\timeslotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\entity\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\entity\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\dto\\resdto\\appointmentresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\dto\\resdto\\appointmentresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\dto\\resdto\\patientresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\dto\\resdto\\patientresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\entity\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\entity\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\repository\\implementation\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\repository\\implementation\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\repository\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\repository\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\entity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\entity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\repository\\implementation\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\repository\\implementation\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\repository\\implementation\\hospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\repository\\implementation\\hospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\service\\implementation\\doctorserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\service\\implementation\\doctorserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\service\\itimeslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\service\\itimeslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\service\\implementation\\hospitalserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\service\\implementation\\hospitalserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\service\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\service\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\repository\\ihospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\repository\\ihospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\service\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\service\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\entity\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\entity\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\service\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\service\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\repository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\repository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\dto\\resdto\\doctorresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\dto\\resdto\\doctorresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\entity\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\entity\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\dto\\resdto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\dto\\resdto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\dto\\resdto\\hospitalresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\dto\\resdto\\hospitalresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Migrations\\20250104114847_firstv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HealthBuddyApp\\Migrations\\20250104114847_firstv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\healthbuddyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\healthbuddyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|d:\\cdac\\09_net\\project\\healthbuddyapp\\healthbuddyapp\\migrations\\20250104115101_firstv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD0A783-A1FC-4BAE-939F-D9A83A0261D8}|HealthBuddyApp\\HealthBuddyApp.csproj|solutionrelative:healthbuddyapp\\migrations\\20250104115101_firstv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Program.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Program.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Program.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:28:05.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:30:07.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:44:06.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:27:40.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientServiceImpl.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\Implementation\\PatientServiceImpl.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Service\\Implementation\\PatientServiceImpl.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\Implementation\\PatientServiceImpl.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Service\\Implementation\\PatientServiceImpl.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:20:20.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Repository\\IPatientRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\IPatientRepository.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Repository\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T10:49:44.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\Implementation\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Repository\\Implementation\\PatientRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\Implementation\\PatientRepository.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Repository\\Implementation\\PatientRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:04:34.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentReqDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ReqDto\\AppointmentReqDto.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\DTO\\ReqDto\\AppointmentReqDto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ReqDto\\AppointmentReqDto.cs",
+              "RelativeToolTip": "HealthBuddyApp\\DTO\\ReqDto\\AppointmentReqDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:25:41.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HospitalReqDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ReqDto\\HospitalReqDto.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\DTO\\ReqDto\\HospitalReqDto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ReqDto\\HospitalReqDto.cs",
+              "RelativeToolTip": "HealthBuddyApp\\DTO\\ReqDto\\HospitalReqDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:15:41.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentServiceImpl.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\Implementation\\AppointmentServiceImpl.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Service\\Implementation\\AppointmentServiceImpl.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\Implementation\\AppointmentServiceImpl.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Service\\Implementation\\AppointmentServiceImpl.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:32:32.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\Patient.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Entity\\Patient.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\Patient.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Entity\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:26:11.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Context\\AppDBContext.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Context\\AppDBContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:23:35.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientReqDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ReqDto\\PatientReqDto.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\DTO\\ReqDto\\PatientReqDto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ReqDto\\PatientReqDto.cs",
+              "RelativeToolTip": "HealthBuddyApp\\DTO\\ReqDto\\PatientReqDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:05:15.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Service\\IAppointmentService.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\IAppointmentService.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Service\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:31:12.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HospitalController.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Controllers\\HospitalController.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Controllers\\HospitalController.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Controllers\\HospitalController.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Controllers\\HospitalController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:30:41.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorReqDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ReqDto\\DoctorReqDto.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\DTO\\ReqDto\\DoctorReqDto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ReqDto\\DoctorReqDto.cs",
+              "RelativeToolTip": "HealthBuddyApp\\DTO\\ReqDto\\DoctorReqDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:28:59.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Util\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Util\\MappingProfile.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Util\\MappingProfile.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Util\\MappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:48:23.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TimeSlotController.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Controllers\\TimeSlotController.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Controllers\\TimeSlotController.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Controllers\\TimeSlotController.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Controllers\\TimeSlotController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:28:18.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TimeSlotServiceImpl.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\Implementation\\TimeSlotServiceImpl.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Service\\Implementation\\TimeSlotServiceImpl.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\Implementation\\TimeSlotServiceImpl.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Service\\Implementation\\TimeSlotServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:25:36.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TimeSlotUtil.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Util\\TimeSlotUtil.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Util\\TimeSlotUtil.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Util\\TimeSlotUtil.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Util\\TimeSlotUtil.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:20:20.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PatientResDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ResDto\\PatientResDto.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\DTO\\ResDto\\PatientResDto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ResDto\\PatientResDto.cs",
+              "RelativeToolTip": "HealthBuddyApp\\DTO\\ResDto\\PatientResDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:32:13.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Entity\\TimeSlot.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\TimeSlot.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Entity\\TimeSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:28:59.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppointmentResDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ResDto\\AppointmentResDto.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\DTO\\ResDto\\AppointmentResDto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ResDto\\AppointmentResDto.cs",
+              "RelativeToolTip": "HealthBuddyApp\\DTO\\ResDto\\AppointmentResDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:37:30.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\Appointment.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Entity\\Appointment.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\Appointment.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Entity\\Appointment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:09:19.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\Implementation\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Repository\\Implementation\\AppointmentRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\Implementation\\AppointmentRepository.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Repository\\Implementation\\AppointmentRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:53:35.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Repository\\IAppointmentRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\IAppointmentRepository.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Repository\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:52:21.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\UserRole.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Entity\\UserRole.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\UserRole.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Entity\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:18:31.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\Implementation\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Repository\\Implementation\\DoctorRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\Implementation\\DoctorRepository.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Repository\\Implementation\\DoctorRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:55:34.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HospitalRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\Implementation\\HospitalRepository.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Repository\\Implementation\\HospitalRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\Implementation\\HospitalRepository.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Repository\\Implementation\\HospitalRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAD4vygAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:54:45.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoctorServiceImpl.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\Implementation\\DoctorServiceImpl.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Service\\Implementation\\DoctorServiceImpl.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\Implementation\\DoctorServiceImpl.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Service\\Implementation\\DoctorServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:56:09.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ITimeSlotService.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\ITimeSlotService.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Service\\ITimeSlotService.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\ITimeSlotService.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Service\\ITimeSlotService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:24:09.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\IPatientService.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Service\\IPatientService.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\IPatientService.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Service\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:18:53.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HospitalServiceImpl.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\Implementation\\HospitalServiceImpl.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Service\\Implementation\\HospitalServiceImpl.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\Implementation\\HospitalServiceImpl.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Service\\Implementation\\HospitalServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:40:56.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IHospitalRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\IHospitalRepository.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Repository\\IHospitalRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\IHospitalRepository.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Repository\\IHospitalRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:34:32.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IHospitalService.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\IHospitalService.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Service\\IHospitalService.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\IHospitalService.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Service\\IHospitalService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:37:33.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\Hospital.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Entity\\Hospital.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\Hospital.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Entity\\Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:58:45.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Repository\\IDoctorRepository.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Repository\\IDoctorRepository.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Repository\\IDoctorRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:52:04.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Service\\IDoctorService.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Service\\IDoctorService.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Service\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:47:43.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DoctorResDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ResDto\\DoctorResDto.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\DTO\\ResDto\\DoctorResDto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ResDto\\DoctorResDto.cs",
+              "RelativeToolTip": "HealthBuddyApp\\DTO\\ResDto\\DoctorResDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:41:23.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Entity\\User.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\User.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:16:37.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\Gender.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Entity\\Gender.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\Gender.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Entity\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:27:39.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ResDto\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\DTO\\ResDto\\ApiResponse.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ResDto\\ApiResponse.cs",
+              "RelativeToolTip": "HealthBuddyApp\\DTO\\ResDto\\ApiResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:36:10.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\Doctor.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Entity\\Doctor.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\Doctor.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Entity\\Doctor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:01:56.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HospitalResDto.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ResDto\\HospitalResDto.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\DTO\\ResDto\\HospitalResDto.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\DTO\\ResDto\\HospitalResDto.cs",
+              "RelativeToolTip": "HealthBuddyApp\\DTO\\ResDto\\HospitalResDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:29:14.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250104115101_firstv.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Migrations\\20250104115101_firstv.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Migrations\\20250104115101_firstv.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Migrations\\20250104115101_firstv.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Migrations\\20250104115101_firstv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:51:02.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250104114847_firstv.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Migrations\\20250104114847_firstv.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Migrations\\20250104114847_firstv.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Migrations\\20250104114847_firstv.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Migrations\\20250104114847_firstv.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:48:47.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\Entity\\BaseEntity.cs",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "HealthBuddyApp\\Entity\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:52:45.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\appsettings.json",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\appsettings.json",
+              "RelativeToolTip": "HealthBuddyApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T09:26:34.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HealthBuddyApp.csproj",
+              "DocumentMoniker": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\HealthBuddyApp.csproj",
+              "RelativeDocumentMoniker": "HealthBuddyApp\\HealthBuddyApp.csproj",
+              "ToolTip": "D:\\CDAC\\09_NET\\Project\\HealthBuddyApp\\HealthBuddyApp\\HealthBuddyApp.csproj",
+              "RelativeToolTip": "HealthBuddyApp\\HealthBuddyApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T07:48:32.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
