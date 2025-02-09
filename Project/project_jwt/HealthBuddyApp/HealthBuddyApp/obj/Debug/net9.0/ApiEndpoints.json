@@ -385,6 +385,54 @@
     ]
   },
   {
+    "ContainingType": "HealthBuddyApp.Controllers.EmailController",
+    "Method": "sendEmail",
+    "RelativePath": "Email/SendEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthBuddyApp.DTO.ReqDto.EmailVerificationReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HealthBuddyApp.Controllers.EmailController",
+    "Method": "verifyEmail",
+    "RelativePath": "Email/VerifyEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HealthBuddyApp.DTO.ReqDto.EmailVerificationReqDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "HealthBuddyApp.Controllers.HospitalController",
     "Method": "Get",
     "RelativePath": "Hospital",

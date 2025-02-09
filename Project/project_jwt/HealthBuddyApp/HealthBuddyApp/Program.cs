@@ -16,6 +16,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddSingleton<IEmailService,EmailServiceImpl>();
 builder.Services.AddScoped<IDoctorRepository,DoctorRepository>();
 builder.Services.AddScoped<IDoctorService,DoctorServiceImpl>();
 builder.Services.AddScoped<IHospitalRepository,HospitalRepository>();

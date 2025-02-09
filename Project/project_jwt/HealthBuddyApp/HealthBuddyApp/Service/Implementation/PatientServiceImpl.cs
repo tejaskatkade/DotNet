@@ -37,7 +37,7 @@ namespace HealthBuddyApp.Service.Implementation
             //if (patientDto.Gender.Equals("MALE"))
             //{
             //    patientDto.Gender = Gender.MALE;
-
+ 
             //}
             //else
             //{
